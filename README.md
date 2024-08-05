@@ -1,2 +1,4 @@
-# Harry-potter-char-personality
-In this project, I created a Fastai model for text classification using an MBTI personality prediction dataset. I used these predictions to create a Harry Potter character classification model. 
+# Harry Potter RNN [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/santiviquez/harry-potter-rnn/app.py)
+Generate text based on Harry Potter's books
+
+Streamlit app: [link](https://harry-dl.uc.r.appspot.com/)
